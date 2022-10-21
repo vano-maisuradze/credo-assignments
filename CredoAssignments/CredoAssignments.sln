@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignments.CalculatorApp", "Assignments.CalculatorApp\Assignments.CalculatorApp.csproj", "{EFA73BDE-67EA-4E01-83BA-E5EAF6498611}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignments.Fibonacci", "Assignments.Fibonacci\Assignments.Fibonacci.csproj", "{FDCAAB04-4BB6-4ABB-B9D5-B84F70403D5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{EFA73BDE-67EA-4E01-83BA-E5EAF6498611}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFA73BDE-67EA-4E01-83BA-E5EAF6498611}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFA73BDE-67EA-4E01-83BA-E5EAF6498611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDCAAB04-4BB6-4ABB-B9D5-B84F70403D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCAAB04-4BB6-4ABB-B9D5-B84F70403D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCAAB04-4BB6-4ABB-B9D5-B84F70403D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCAAB04-4BB6-4ABB-B9D5-B84F70403D5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
